@@ -13,3 +13,7 @@ Write a C++ program that will assist the company in incrementing the salary of i
 The salary is 0 or -ve.
 OR 
 The appraisal rating is not within the range of [1,5].
+
+Watch me writing this code with complete explanation on YouTube : https://youtu.be/wX5LPM7rIzc
+
+Website : https://blazehattech.com
